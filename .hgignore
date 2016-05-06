@@ -10,4 +10,5 @@ syntax: glob
 *.xls
 *.zip
 *.tgz
+.idea
 converter_mmaps.py
